@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/shashank-pandey-bb345a363" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pandeyshashank7743@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://shashankp89.github.io/my_portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=Web&logoColor=00f2fe" alt="Portfolio"></a>
-  <a href="https://instagram.com/shashankp089" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://leetcode.com/shashankp89" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 </p>
 
 ---
@@ -127,15 +127,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ### 📊 GitHub & Problem Solving Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankp89&theme=tokyonight&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankp89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f2fe" alt="Shashank's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankp89&theme=tokyonight&hide_border=true&background=0f2027&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Shashank's GitHub streak" width="48%" />
-</p>
+ 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shashankp89?theme=dark&ext=activity" alt="LeetCode Stats" width="60%" />
@@ -143,15 +135,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ---
 
-<!-- GitHub Snake Contribution Grid Animation -->
-<div align="center">
-  <h3>🐍 My Code Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankp89/shashankp89/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankp89/shashankp89/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashankp89/shashankp89/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+ 
 
 <div align="center">
   <br>
