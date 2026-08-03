@@ -42,7 +42,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ### 💼 Professional Experience
 
-> **AI / Software Engineering Intern** @ *AICTE IdeaLab - GGSIPU*  
+> **Engineering Intern** @ *AICTE IdeaLab - GGSIPU*  
 > *June 2026 – August 2026*
 > 
 > Focused heavily on the frontier of **Edge AI and TinyML**. 
