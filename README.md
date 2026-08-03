@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/shashank-pandey-bb345a363" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pandeyshashank7743@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://shashankp89.github.io/my_portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=Web&logoColor=00f2fe" alt="Portfolio"></a>
-  <a href="https://leetcode.com/u/shashankp89" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
+  <a href="https://leetcode.com/u/shashankp89" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 </p>
 
 ---
