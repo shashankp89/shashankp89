@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/shashank-pandey-bb345a363" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pandeyshashank7743@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://shashankp89.github.io/my_portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=Web&logoColor=00f2fe" alt="Portfolio"></a>
-  <a href="https://leetcode.com/shashankp89" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
+  <a href="https://leetcode.com/u/shashankp89" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 <table bordercolor="#2c5364">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 Bell Palsy's Rehab System</h3>
+      <h3 align="center">Bell Palsy's Rehab System</h3>
       <p>A medical-focused Facial Rehabilitation Assistant. It utilizes <b>MediaPipe</b> and <b>OpenCV</b> to track muscle-specific performance metrics, providing real-time visual overlays to help patients monitor their physical therapy progress.</p>
       <div align="center">
         <a href="https://github.com/shashankp89/Bell-s-Palsy-Rehabilitation-Assistant">
@@ -82,7 +82,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🕵️ Deep Packet Inspection</h3>
+      <h3 align="center">Deep Packet Inspection</h3>
       <p>A low-level networking project built purely in <b>C++</b>. Features a custom Deep Packet Inspection engine and Packet Analyzer designed to intercept, monitor, and secure complex network traffic at the granular level.</p>
       <div align="center">
         <a href="https://github.com/shashankp89/Data-Packet-Inspection">
@@ -93,7 +93,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍔 Foodify</h3>
+      <h3 align="center">Foodify</h3>
       <p>A comprehensive web application designed for seamless food discovery and dynamic user interaction. Built with modern web technologies focusing on a clean, responsive UI.</p>
       <div align="center">
         <a href="https://github.com/shashankp89/Foodify">
@@ -102,7 +102,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Interview Prep</h3>
+      <h3 align="center">AI Interview Prep</h3>
       <p>An intelligent platform providing tailored mock environments to help candidates prepare for technical interviews. Merges full-stack development with AI-driven responses.</p>
       <div align="center">
         <a href="https://github.com/shashankp89/Ai-based-interview-preparation-platform">
@@ -125,7 +125,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ---
 
-### 📊 GitHub & Problem Solving Analytics
+### 📊Problem Solving Analytics
 
  
 
