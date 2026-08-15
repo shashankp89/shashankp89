@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 A Bit About Me
+###  A Bit About Me
 
 I am a developer who thrives at the intersection of **hardware constraints and software scalability**. Currently pursuing my **B.Tech in Electronics and Communication Engineering (ECE)** at **USICT, GGSIPU**, I don't just write code—I build systems that understand the hardware they run on. 
 
@@ -31,16 +31,16 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 <summary><b>✨ Highlights & Achievements (Click to Expand)</b></summary>
 <br>
   
-* 🏆 **Smart India Hackathon (SIH):** Selected for the internal round.
-* 🔐 **Cryptography Champion:** Winner of the cryptography competition, *"The Imitation Game"*.
-* 🧩 **Algorithmic Problem Solver:** Completed **300+ problems** on LeetCode with a contest rating peaking above **1560+**.
-* 🛠️ **System Architecture:** Strong passion for low-level system design, demonstrated through custom C++ packet analysis engines.
+*  **Smart India Hackathon (SIH):** Selected for the internal round.
+*  **Cryptography Champion:** Winner of the cryptography competition, *"The Imitation Game"*.
+*  **Algorithmic Problem Solver:** Completed **300+ problems** on LeetCode with a contest rating peaking above **1560+**.
+*  **System Architecture:** Strong passion for low-level system design, demonstrated through custom C++ packet analysis engines.
 
 </details>
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
 
 > **Engineering Intern** @ *AICTE IdeaLab - GGSIPU*  
 > *June 2026 – August 2026*
@@ -54,7 +54,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ---
 
-### 🛠️ The Tech Forge
+###  The Tech Forge
 
 *Tools, languages, and frameworks I use to bring ideas to life:*
 
@@ -68,7 +68,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ---
 
-### 🔬 Featured Engineering Projects
+###  Featured Engineering Projects
 
 <table bordercolor="#2c5364">
   <tr>
@@ -114,7 +114,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 </table>
 
 <details>
-<summary><b>📂 View More Projects (PacketPay, TaskOfJunkies, etc.)</b></summary>
+<summary><b> View More Projects (PacketPay, TaskOfJunkies, etc.)</b></summary>
 <br>
 
 * **[PacketPay](https://github.com/shashankp89/PacketPay):** A secure and efficient payment gateway logic simulation for safe transactional networking.
@@ -125,7 +125,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
 
 ---
 
-### 📊Problem Solving Analytics
+### Problem Solving Analytics
 
  
 
