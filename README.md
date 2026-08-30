@@ -5,11 +5,11 @@
 
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Shashank%20Pandey&fontSize=70&fontColor=00f2fe&animation=fadeIn&fontAlignY=35&desc=20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Shashank%20Pandey&fontSize=70&fontColor=00f2fe&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Bridging+High-Level+Software+with+Low-Level+Systems;Full-Stack+Developer+%7C+React+%26+Node.js;Computer+Vision+%26+AI+Enthusiast;Hardware+Accelerator+%26+TinyML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+React+%26+Node.js;Computer+Vision+%26+AI+Enthusiast;Hardware+Accelerator+%26+TinyML+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
