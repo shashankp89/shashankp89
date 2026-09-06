@@ -33,7 +33,7 @@ Whether I am designing a responsive full-stack web portal in React or optimizing
   
 *  **Smart India Hackathon (SIH):** Selected for the internal round.
 *  **Cryptography Champion:** Winner of the cryptography competition, *"The Imitation Game"*.
-*  **Algorithmic Problem Solver:** Completed **300+ problems** on LeetCode with a contest rating peaking above **1560+**.
+*  **Algorithmic Problem Solver:** Completed **450+ problems** on LeetCode with a contest rating peaking above **1560+**.
 *  **System Architecture:** Strong passion for low-level system design, demonstrated through custom C++ packet analysis engines.
 
 </details>
